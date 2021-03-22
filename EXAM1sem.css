@@ -1,0 +1,229 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: Arial;
+}
+nav{
+	background-color: black;
+	width: 100%;
+	height: 100px;
+}
+nav:hover{
+	background-color: orange;
+	transition-duration: 5s;
+}
+
+nav a{
+	color: white;
+	margin: 10px;
+}
+nav a:hover{
+	text-transform: uppercase;
+	transition-duration: 3s;
+	font-weight: bold;
+	font-size: 15px;
+}
+nav a:hover{
+	color:black;
+	font-style: italic;
+}
+.navbar .max-withd {
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	margin: 20px auto;
+}
+.lien li{
+	color: orange;
+	font-size: 15px;
+	display: inline-block;
+	margin: 20px 50px 12px 12px;
+
+}
+.DEBUT img{
+padding-left: 20px;
+padding-bottom: 60px;
+}
+
+.pere{
+	color: black;
+	font-size: 30px;
+	font-family: arial;
+	font-weight: bolder;
+	background: orange;
+}
+.premier{
+	background-image: url('MMfatou.png');
+	width: 100%;
+	height: 600px;
+	background-repeat: no-repeat;
+}
+.MMdiarra{
+	color: white;
+	padding-top: 100px;
+	padding-left: 70px; 
+	font-size:35px;
+	text-decoration: white;
+	font-family: cursive;
+}
+.BBcoumba{
+	font-family: arial;
+	font-size: 35px;
+	color: black;
+	align-content: center;
+	padding-top: 0px;
+	font-weight: bold;
+	
+}
+.BBcoumba{
+	align-content: center;
+	text-decoration: underline orange;
+}
+p{
+	font-size: 20px;
+	font-weight: bold;
+	align-content: center;
+	text-decoration: underline;
+}
+table div{
+	padding-left: 90px;
+	padding-right: 70px;
+}
+table{
+	width: 100%;
+	border:70px;
+}
+table img{
+	padding-left: 70px;
+}
+.Adama{
+	border-radius: 100%;
+	width: 240px;
+	height: 25font-size: 25px;
+	font-weight: bolder;
+	padding-top: 25px;
+	text-decoration: underline orange;
+}
+
+.Dia{
+	font-weight: bold;
+	font-size: 20px;
+	padding-top: 20px;
+	text-decoration: underline orange;
+	}
+.KIOSQUE{
+	padding-left: 75px;
+}
+.jum{
+	display: flex;
+	padding-top: 75px;
+	/*width: 1600px;*/
+}
+.moi{
+	padding-left:300px;
+}
+.Bamba{
+	font-weight: bolder;
+	font-size: 30px;
+	padding-top: 70px;
+	text-decoration: underline orange;
+}
+.Mbacke{
+	display: flex;
+	padding-top: 75px;
+}
+.bb{
+	padding-left: 105px;
+}
+.mm{
+	padding-left: 70px;
+}
+.iaw{
+	padding-top: 75px;
+	font-weight: bolder;
+	font-size: 30px;
+	text-decoration: underline orange;
+}
+.faty{
+	padding-top: 45px;
+	padding-left: 300px;
+}
+.ok{
+	display: flex;
+	padding-top: 45px;
+}
+.Maman{
+	font-size: 30px;
+	padding-top: 75px;
+	text-decoration: underline orange;
+	font-weight: bolder;
+}
+.fin{
+	padding-top: 70px;
+	font-weight: bold;
+	font-size: 20px;
+	display: flex;
+	margin:10px;
+
+}
+.Allah{
+	width: 70%;
+}
+.fin img{
+	padding-left: 200px;
+}
+pre{
+	padding-left: 250px;
+	padding-top: 40px;
+}
+.Bousso{
+	padding-left: 100px;
+	width: 1000px;
+}
+input{
+	font-size: 30px;
+	background-color: orange;
+	border-radius: 15px;
+	border:3px solid black;
+}
+.mom{
+	padding-top: 100px;
+}
+
+.mn::after{
+  content: ":";
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.SOUS{
+	position: absolute;
+	display: none;
+}
+
+.SOUS li{
+   border:2px solid #bdc3c7;
+	float: none;
+	text-align: center;
+	width: 45%;
+	height: 20%;
+	background-color: orange;
+}
+
+.SOUS li a{
+	font-size: 20px; 
+}
+
+.navbar .lien li:hover .SOUS{
+    display: block;
+}
+
+.Rabbi{
+	padding-left: 250px;
+
+}
+pre{
+	font-weight: bold;
+	font-style: inherit;
+}
